@@ -1,0 +1,147 @@
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe.config
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.pdb
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.xml
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.xml
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.AssemblyReference.cache
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.SuggestedBindingRedirects.cache
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.g.cs
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\App.g.cs
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.cache
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.lref
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.baml
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.g.resources
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.Properties.Resources.resources
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.GenerateResource.cache
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CoreCompileInputs.cache
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CopyComplete
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.exe
+E:\Мои документы\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.pdb
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\App.g.cs
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.cache
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.lref
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe.config
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.pdb
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.xml
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.AssemblyReference.cache
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.baml
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.g.resources
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.Properties.Resources.resources
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.GenerateResource.cache
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CoreCompileInputs.cache
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CopyComplete
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.exe
+C:\Users\Anna\OneDrive\Рабочий стол\ПРАКТИКА\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.pdb
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\AutorizWIn.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\EditMenuWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\EmployeeWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\EditComposWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\KassWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MenuTypeWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MenuWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\PositionWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\ProdTypeWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\ProductWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\QuantityWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\SpisanieWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\StorageTypeWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\StorageWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\App.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.cache
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace_MarkupCompile.lref
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe.config
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.exe
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\CafeWorkPlace.pdb
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.xml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\App.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\AutorizWIn.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\EditMenuWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\EmployeeWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\EditComposWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\KassWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MainWindow.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MenuTypeWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\MenuWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\PositionWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\ProdTypeWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\ProductWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\QuantityWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\SpisanieWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\StorageTypeWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\StorageWin.baml
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.g.resources
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.Properties.Resources.resources
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.csproj.CopyComplete
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.exe
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\CafeWorkPlace.pdb
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\ChangeComposWin.g.cs
+C:\Users\Anna\Desktop\CafeWorkPlace\CafeWorkPlace\obj\Debug\KassWindows\ChangeComposWin.baml

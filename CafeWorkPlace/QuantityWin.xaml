@@ -1,0 +1,17 @@
+﻿<Window x:Class="CafeWorkPlace.QuantityWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CafeWorkPlace"
+        mc:Ignorable="d" Height="150" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <StackPanel Width="300">
+            <TextBox Name="tbQ" Width="200" Margin="20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Width="50" Height="30" x:Name="btnOK" Click="btnOK_Click" IsDefault="True" Content="ОК" Margin="10"/>
+                <Button Width="100" Height="30" x:Name="btnCancel" Click="btnCancel_Click" IsCancel="True" Content="Отмена" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

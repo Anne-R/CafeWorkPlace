@@ -1,0 +1,87 @@
+﻿<Window x:Class="CafeWorkPlace.KassWindows.KassWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CafeWorkPlace.KassWindows"
+        mc:Ignorable="d"
+         Height="700" Width="1300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnOut" Click="btnOut_Click" Content="Выйти" Width="100" Height="30" Margin="5"/>
+                <TextBlock x:Name="tbWorker" Margin="5"/>
+            </StackPanel>
+            <HeaderedContentControl Header="Состав заказа:" FontSize="20" FontFamily="Courier New" Margin="15,15,10,0">
+                <DataGrid Height="350" x:Name="dtgOrder" FontSize="16" AutoGenerateColumns="False" CanUserAddRows="False" SelectedItem="{Binding Selected, Mode=TwoWay}">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Наим" Width="auto" Binding="{Binding Path = Menu.Title}"/>
+                        <DataGridTextColumn Header="Кол-во" Width="40" Binding="{Binding Quantity}"/>
+                        <DataGridTextColumn Header="Цена" Width="auto" Binding="{Binding Price}"/>
+                        <DataGridTextColumn Header="Размер" Width="auto" Binding="{Binding Size}"/>
+                        <DataGridTextColumn Header="Коммент" Width="auto" Binding="{Binding Comment}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </HeaderedContentControl>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnQuantityMinus" Content=" - " Width="40" Height="40" Margin="5" Click="btnQuantityMinus_Click"/>
+                <Button x:Name="btnQuantityNumb" Content="123" Width="70" Height="40" Margin="5" Click="btnQuantityNumb_Click"/>
+                <Button x:Name="btnQuantityPlus" Content=" + " Width="40" Height="40" Margin="5" Click="btnQuantityPlus_Click"/>
+                <Button x:Name="btnComposition" Content="Изменить состав" Width="200" Height="40" Margin="5" Click="btnComposition_Click"/>
+                <Button x:Name="btnRemove" Content="x" Width="50" Height="40" Margin="5" Click="btnRemove_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="5" >
+                <TextBlock Text="Итого: " Width="70" VerticalAlignment="Center" Margin="5"/>
+                <TextBlock x:Name="tbTotal" Width="100" VerticalAlignment="Center" Margin="5"/>
+                <Button x:Name="btnPay" Click="btnPay_Click" Content="Оплата" Margin="5" Height="35" Width="250"/>
+            </StackPanel>
+        </StackPanel>
+        
+        <StackPanel Grid.Column="3">
+            <Button x:Name="btnShowAll" Content="Показать все" Click="btnShowAll_Click" Margin="0,60,0,5" Width="170" Height="40"/>
+            <ListBox Width="180" Height="500" Name="lbTypes" Margin="0,5,0,0">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Width="170">
+                            <Button Name="btnShow" Click="btnShow_Click" Width="170" Height="40">
+                                <TextBlock Text="{Binding Title}"/>
+                            </Button>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBox Width="400" Name="tbSearch" TextChanged="tbSearch_TextChanged"  Margin="10"/>
+            </StackPanel>
+            <ListBox Width="460" Height="550" Name="lbMenu" Margin="0,10,0,0" SelectionChanged="btnToCheque_Click">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Width="440">
+                            <Button Name="btnToCheque" Click="btnToCheque_Click" Width="440" Height="auto" HorizontalContentAlignment="Left">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Title}" Margin="5,5,30,5" Width="150" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                    <TextBlock Text=" | " VerticalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Size}" Margin="5" Width="50" VerticalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Unit}" Margin="5" Width="50" VerticalAlignment="Center"/>
+                                    <TextBlock Text=" | " VerticalAlignment="Center"/>
+                                    <TextBlock Text="{Binding Price}" Margin="5" Width="50" VerticalAlignment="Center"/>
+                                    <TextBlock Text=" руб." Margin="5" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

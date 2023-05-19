@@ -1,0 +1,75 @@
+﻿<Window x:Class="CafeWorkPlace.SpisanieWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CafeWorkPlace"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" WindowStyle="None" Height="600" Width="900">
+    <Grid>
+        <StackPanel Margin="10">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <StackPanel>
+                    <RadioButton x:Name="rbProd" GroupName="gr" Content="По продукту" Checked="rbProd_Checked" />
+                    <ComboBox Name="cbProd" SelectionChanged="cbProd_SelectionChanged" Width="300" Margin="5"/>
+                    <StackPanel x:Name="stProd" Margin="10" IsEnabled="True">
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBox Name="tbQuant" Width="100" Margin="5"/>
+                            <TextBlock Name="tbProdUnit" Width="100" Margin="5"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Дата: "/>
+                            <DatePicker  Name="dpProd" Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Причина: "/>
+                            <ComboBox x:Name="cbProdReason" Margin="10,0,0,0" Width="200"/>
+                            <Button Name="btnAddReason" Click="btnAddReason_Click" Content="+" Height="30" Width="30" FontSize="20" Margin="10,5,5,5"/>
+                        </StackPanel>
+                        <Button x:Name="btnAddProd" Content="Готово" Width="100" HorizontalAlignment="Right" Margin="10" Click="btnAddProd_Click"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="100,0,0,0">
+                    <RadioButton x:Name="rbTovar" GroupName="gr" Content="По товару" Checked="rbTovar_Checked"/>
+                    <ComboBox Name="cbtovar" Width="300" Margin="5"/>
+                    <StackPanel x:Name="stTovar" IsEnabled="False" Margin="10">
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBox Name="tbTovarQuant" Width="100" Margin="5"/>
+                            <TextBlock Text="шт" Width="100" Margin="5"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Дата: "/>
+                            <DatePicker  Name="dpTovar" Margin="10,0,0,0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="Причина: "/>
+                            <ComboBox x:Name="cbTovarReason" Margin="10,0,0,0" Width="200"/>
+                            <Button Name="btnAddTovarReason" Click="btnAddReason_Click" Content="+" Height="30" Width="30" FontSize="20" Margin="10,5,5,5"/>
+                        </StackPanel>
+                        <Button x:Name="btnAddTovar" Content="Готово" Width="100" HorizontalAlignment="Right" Margin="10" Click="btnAddTovar_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <ListBox Width="550" Height="200" MaxHeight="200" Name="lbStorage">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Width="550">
+                            <TextBlock Text="{Binding Path = Products.Title}" MaxWidth="200" Margin="5"/>
+                            <TextBlock Text=" - "/>
+                            <TextBlock Text="{Binding Quantity}" Margin="5"/>
+                            <TextBlock Text="{Binding Path = Products.Unit}" Margin="5"/>
+                            <TextBlock Text="{Binding Path = StorageTypes.Title}" Margin="5"/>
+                            <TextBlock Text="{Binding Date}" Margin="5"/>
+                            <Button Name="btnRemove" Click="btnRemove_Click" Content="x" Width="25" Height="25" FontSize="10" Margin="20,0,0,0"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Width="50" Height="30" x:Name="btnOK" Click="btnOK_Click" IsDefault="True" Content="ОК" Margin="10"/>
+                <Button Width="100" Height="30" x:Name="btnCancel" Click="btnCancel_Click" IsCancel="True" Content="Отмена" Margin="10"/>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
